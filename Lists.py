@@ -1,0 +1,9 @@
+empty_list=[]
+print()
+number=[1,2,3,4,5]
+print(number)
+triples=[1,2,3]*3
+print(triples)
+list=[2,4,6,7]
+list=list[::-1]
+print(list)
